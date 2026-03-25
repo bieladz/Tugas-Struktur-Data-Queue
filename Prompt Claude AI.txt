@@ -1,6 +1,6 @@
 Tools AI: Claude AI
 Prompt AI:
-"Buat program simulasi antrian di posyandu menggunakan struktur data Queue dengan ketentuan sebagai berikut:
+Buat program simulasi antrian di posyandu menggunakan struktur data Queue dengan ketentuan sebagai berikut:
 1. Menggunakan bahasa Java dan Python
 2. Menggunakan tampilan grafis (GUI)
 3. Fitur ambil antrian, akan meminta input nama, adapun nomor akan digenerate secara otomatis (1,2,3,...dst)
